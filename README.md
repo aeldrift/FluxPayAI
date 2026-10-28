@@ -3,7 +3,7 @@ An Intelligent AI-powered financial platform delivering smart payment routing, s
 
 **Think first. Spend smarter.**
 
-SpendRoast is a personal finance companion that watches your spending, tells you the truth about it, and does so with a sense of humour. It tracks your budget in real time, nudges you before you make an impulsive purchase, and roasts you (gently, and only as much as you ask for) when you slip.
+Flux Pay is a personal finance companion that watches your spending, tells you the truth about it, and does so with a sense of humour. It tracks your budget in real time, nudges you before you make an impulsive purchase, and roasts you (gently, and only as much as you ask for) when you slip.
 
 Most budgeting apps are accurate and boring, so people quit using them. SpendRoast is built on a simple idea: if checking your budget is fun, you will actually do it.
 
