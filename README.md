@@ -13,9 +13,9 @@ Most budgeting apps are accurate and boring, so people quit using them. SpendRoa
 
 We have all done it. A "quick" coffee, a late-night order, a sale you didn't need. The regret shows up an hour later, when it can't change anything.
 
-SpendRoast moves that moment of reflection to *before* you pay. It never locks you out of your own money. It just makes sure you notice what you're about to do.
+Flux Pay moves that moment of reflection to *before* you pay. It never locks you out of your own money. It just makes sure you notice what you're about to do.
 
-> "You and Castro can survive without overpriced coffee, but sure, caffeine is a survival necessity, no?"
+> "Your ancestors can survive without overpriced coffee, but sure, caffeine is a survival necessity for you now, no?"
 
 ---
 
@@ -33,7 +33,7 @@ Connect a supported payment provider and your budget updates itself whenever a p
 - PayPal Sandbox is supported for demos and testing.
 
 ### AI Financial Copilot
-Ask questions in plain language, like "How much do I have left for food this week?" The copilot looks at your habits, recurring expenses and goals, points out where you're overspending, and sends daily, weekly and monthly summaries with practical suggestions.
+Ask questions in plain language, like "How much do I have left for food this week?" and get efficient outputs. The copilot looks at your habits, recurring expenses and goals, points out where you're overspending, and sends daily, weekly and monthly summaries with practical suggestions.
 
 ### AI Roast Engine
 Witty, personal feedback based on how you actually spend. You choose the tone and intensity, from a light nudge to a proper roasting. Every roast comes with something useful, and the goal is to encourage mindful spending, not to shame you or take away your choices.
